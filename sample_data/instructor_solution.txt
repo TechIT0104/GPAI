@@ -1,0 +1,26 @@
+Instructor Solution: Solving Linear Equations
+
+Problem: Solve for x: 2x + 5 = 13
+
+Step 1: Subtract 5 from both sides
+2x + 5 - 5 = 13 - 5
+2x = 8
+
+Step 2: Divide both sides by 2
+2x / 2 = 8 / 2
+x = 4
+
+Step 3: Verify the solution
+Substitute x = 4 back into the original equation:
+2(4) + 5 = 13
+8 + 5 = 13
+13 = 13 ✓
+
+Therefore, x = 4 is the solution.
+
+Method: Algebraic manipulation using inverse operations
+
+Key Concepts:
+- Inverse operations (subtraction undoes addition, division undoes multiplication)
+- Maintaining equation balance (what you do to one side, do to the other)
+- Verification by substitution

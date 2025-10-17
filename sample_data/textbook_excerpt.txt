@@ -1,0 +1,56 @@
+Chapter 3: Quadratic Equations
+
+3.1 Introduction to Quadratic Equations
+
+A quadratic equation is a second-degree polynomial equation in a single variable x,
+with the general form:
+
+    ax² + bx + c = 0
+
+where a ≠ 0. The solutions can be found using the quadratic formula:
+
+    x = (-b ± √(b² - 4ac)) / 2a
+
+3.2 Solving Methods
+
+There are several methods to solve quadratic equations:
+
+1. Factoring: When the equation can be factored into (x - r₁)(x - r₂) = 0
+
+2. Quadratic Formula: Always works, especially when factoring is difficult
+
+3. Completing the Square: Useful for deriving the quadratic formula
+
+4. Graphical Method: Finding x-intercepts of the parabola y = ax² + bx + c
+
+Example 1: Solve x² - 5x + 6 = 0
+
+Method: Factoring
+This factors to (x - 2)(x - 3) = 0
+Therefore, x = 2 or x = 3
+
+Verification:
+For x = 2: (2)² - 5(2) + 6 = 4 - 10 + 6 = 0 ✓
+For x = 3: (3)² - 5(3) + 6 = 9 - 15 + 6 = 0 ✓
+
+Example 2: Solve 2x² + 7x - 4 = 0
+
+Method: Quadratic Formula
+a = 2, b = 7, c = -4
+x = (-7 ± √(49 - 4(2)(-4))) / (2·2)
+x = (-7 ± √(49 + 32)) / 4
+x = (-7 ± √81) / 4
+x = (-7 ± 9) / 4
+
+Therefore:
+x = (-7 + 9) / 4 = 2/4 = 0.5
+or
+x = (-7 - 9) / 4 = -16/4 = -4
+
+3.3 The Discriminant
+
+The discriminant Δ = b² - 4ac determines the nature of solutions:
+
+- If Δ > 0: Two distinct real solutions
+- If Δ = 0: One repeated real solution
+- If Δ < 0: Two complex conjugate solutions
